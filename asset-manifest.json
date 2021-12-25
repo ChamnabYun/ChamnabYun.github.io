@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ChamnabYun.github.io/static/css/main.624ba720.chunk.css",
+    "main.js": "/ChamnabYun.github.io/static/js/main.9de4146c.chunk.js",
+    "main.js.map": "/ChamnabYun.github.io/static/js/main.9de4146c.chunk.js.map",
+    "runtime-main.js": "/ChamnabYun.github.io/static/js/runtime-main.77ede116.js",
+    "runtime-main.js.map": "/ChamnabYun.github.io/static/js/runtime-main.77ede116.js.map",
+    "static/js/2.eeb2dec1.chunk.js": "/ChamnabYun.github.io/static/js/2.eeb2dec1.chunk.js",
+    "static/js/2.eeb2dec1.chunk.js.map": "/ChamnabYun.github.io/static/js/2.eeb2dec1.chunk.js.map",
+    "static/css/3.5a09a2c6.chunk.css": "/ChamnabYun.github.io/static/css/3.5a09a2c6.chunk.css",
+    "static/js/3.559b0ac1.chunk.js": "/ChamnabYun.github.io/static/js/3.559b0ac1.chunk.js",
+    "static/js/3.559b0ac1.chunk.js.map": "/ChamnabYun.github.io/static/js/3.559b0ac1.chunk.js.map",
+    "static/css/4.ca6b759e.chunk.css": "/ChamnabYun.github.io/static/css/4.ca6b759e.chunk.css",
+    "static/js/4.960a9be1.chunk.js": "/ChamnabYun.github.io/static/js/4.960a9be1.chunk.js",
+    "static/js/4.960a9be1.chunk.js.map": "/ChamnabYun.github.io/static/js/4.960a9be1.chunk.js.map",
+    "index.html": "/ChamnabYun.github.io/index.html",
+    "precache-manifest.91af73a8838eb7a8c62fd32bcf4f782c.js": "/ChamnabYun.github.io/precache-manifest.91af73a8838eb7a8c62fd32bcf4f782c.js",
+    "service-worker.js": "/ChamnabYun.github.io/service-worker.js",
+    "static/css/3.5a09a2c6.chunk.css.map": "/ChamnabYun.github.io/static/css/3.5a09a2c6.chunk.css.map",
+    "static/css/4.ca6b759e.chunk.css.map": "/ChamnabYun.github.io/static/css/4.ca6b759e.chunk.css.map",
+    "static/css/main.624ba720.chunk.css.map": "/ChamnabYun.github.io/static/css/main.624ba720.chunk.css.map",
+    "static/js/2.eeb2dec1.chunk.js.LICENSE.txt": "/ChamnabYun.github.io/static/js/2.eeb2dec1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ChamnabYun.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/cadt.png": "/ChamnabYun.github.io/static/media/cadt.74564542.png",
+    "static/media/contactMailDark.svg": "/ChamnabYun.github.io/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/ChamnabYun.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/ChamnabYun.github.io/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/manOnTable.svg": "/ChamnabYun.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/quoraLogo.png": "/ChamnabYun.github.io/static/media/quoraLogo.4b2938b9.png",
+    "static/media/scoring_logo.webp": "/ChamnabYun.github.io/static/media/scoring_logo.df3d3853.webp",
+    "static/media/skill.svg": "/ChamnabYun.github.io/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/ChamnabYun.github.io/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/watchfree_logo.webp": "/ChamnabYun.github.io/static/media/watchfree_logo.5ab64b6a.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ede116.js",
+    "static/js/2.eeb2dec1.chunk.js",
+    "static/css/main.624ba720.chunk.css",
+    "static/js/main.9de4146c.chunk.js"
+  ]
+}
