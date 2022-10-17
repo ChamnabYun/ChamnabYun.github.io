@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7056e928bee36e53de622409a27e2455",
+    "revision": "f600adf2fda29546ca7deb32b3b74258",
     "url": "/index.html"
   },
   {
-    "revision": "eca27c4719fd22032f5f",
+    "revision": "5ff27fed18abbdf1a752",
     "url": "/static/css/3.5a09a2c6.chunk.css"
   },
   {
-    "revision": "408d23d1f49854955d28",
+    "revision": "890877fc0bb5b53805d2",
     "url": "/static/css/4.ca6b759e.chunk.css"
   },
   {
-    "revision": "8dc5ea429536c2ccb8c4",
-    "url": "/static/css/main.f7ee032d.chunk.css"
+    "revision": "2a1531197347d8f1c346",
+    "url": "/static/css/main.a5c4d2fe.chunk.css"
   },
   {
-    "revision": "d840a6b687e187a136fd",
-    "url": "/static/js/2.b3fe1559.chunk.js"
+    "revision": "0f2d8ee316bfed495a41",
+    "url": "/static/js/2.5550838c.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.b3fe1559.chunk.js.LICENSE.txt"
+    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
+    "url": "/static/js/2.5550838c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eca27c4719fd22032f5f",
-    "url": "/static/js/3.037d219d.chunk.js"
+    "revision": "5ff27fed18abbdf1a752",
+    "url": "/static/js/3.390fdd12.chunk.js"
   },
   {
-    "revision": "408d23d1f49854955d28",
-    "url": "/static/js/4.960a9be1.chunk.js"
+    "revision": "890877fc0bb5b53805d2",
+    "url": "/static/js/4.94266d86.chunk.js"
   },
   {
-    "revision": "8dc5ea429536c2ccb8c4",
-    "url": "/static/js/main.68e98fd0.chunk.js"
+    "revision": "2a1531197347d8f1c346",
+    "url": "/static/js/main.b11ffff5.chunk.js"
   },
   {
-    "revision": "7ae4662920bba7b9f775",
-    "url": "/static/js/runtime-main.97211522.js"
+    "revision": "de440d8106d490b6c12a",
+    "url": "/static/js/runtime-main.62b1a4ad.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "abb75ba7adeda717f5fbc266141af94f",
+    "url": "/static/media/Smart_Axiata_logo.abb75ba7.png"
   },
   {
     "revision": "706c7b5f4cb879c1657d764e79d75b86",
@@ -72,12 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "b31ab3ebe978d7803a69f7d64ca7d324",
+    "url": "/static/media/mobileCnC.b31ab3eb.png"
+  },
+  {
     "revision": "df3d38538ba5534f4a8e4622d7aada74",
     "url": "/static/media/scoring_logo.df3d3853.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "fa17d2494fc2de91451b488bbe7f72e9",
+    "url": "/static/media/smartAxiata.fa17d249.png"
   },
   {
     "revision": "eeeac895e685bd9ac352810444bcf814",
